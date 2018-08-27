@@ -1,0 +1,1 @@
+S:\GUIDesign\CSharpGui\CSharpGui\bin\Release\CSharpGui.exe.config

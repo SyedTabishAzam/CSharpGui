@@ -1,0 +1,1 @@
+3:23:16 Friend MyOwnVariable true : SUCCESS

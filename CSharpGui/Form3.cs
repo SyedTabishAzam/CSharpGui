@@ -127,6 +127,7 @@ namespace CSharpGui
                 }
                 if (result == DialogResult.No)
                 {
+                    ClearEverything();
                     Application.Exit();
                 }
             }

@@ -649,7 +649,10 @@ namespace CSharpGui
             {
                 string[] command = new string[] { "0", "RTC_RESTART", "NULL", "NULL" };
                 SendCommand(command);
+                richTextBox1.AppendText("Please wait...");
+                System.Threading.Thread.Sleep(5000);
                 ClearEverything();
+                
                 Application.Restart();
             }
             else if (dialogResult == DialogResult.No)

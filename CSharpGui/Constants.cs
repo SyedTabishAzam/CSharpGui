@@ -14,7 +14,7 @@ namespace CSharpGui
             public const string SCNERIO_DATA_FILE = "ScenerioData.dat";
             public const string SUBSCRIBER_FILE = "InitialSubscriber.exe";
             public const string PUBLISEHR_FILE = "CommandPublisher.exe";
-            public const string ENV_VAR_FILE = "setenv.cmd";
+            public const string ENV_VAR_FILE = "SetupEnv.bat";
             public const string RTPS_FILE = "rtps.ini";
             public const string COMMAND_FILE = "commands.dat";
             

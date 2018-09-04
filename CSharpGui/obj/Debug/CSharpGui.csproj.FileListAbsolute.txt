@@ -14,8 +14,6 @@ S:\GUIDesign\CSharpGui\CSharpGui\obj\Debug\CSharpGui.exe.manifest
 S:\GUIDesign\CSharpGui\CSharpGui\obj\Debug\CSharpGui.application
 S:\GUIDesign\CSharpGui\CSharpGui\obj\Debug\CSharpGui.Form3.resources
 D:\GUIApplication\CSharpGui\CSharpGui\bin\Debug\CSharpGui.exe.config
-D:\GUIApplication\CSharpGui\CSharpGui\obj\Debug\CSharpGui.exe
-D:\GUIApplication\CSharpGui\CSharpGui\obj\Debug\CSharpGui.pdb
 D:\GUIApplication\CSharpGui\CSharpGui\bin\Debug\CSharpGui.exe.manifest
 D:\GUIApplication\CSharpGui\CSharpGui\bin\Debug\CSharpGui.application
 D:\GUIApplication\CSharpGui\CSharpGui\bin\Debug\CSharpGui.exe
@@ -28,3 +26,5 @@ D:\GUIApplication\CSharpGui\CSharpGui\obj\Debug\CSharpGui.Properties.Resources.r
 D:\GUIApplication\CSharpGui\CSharpGui\obj\Debug\CSharpGui.csproj.GenerateResource.Cache
 D:\GUIApplication\CSharpGui\CSharpGui\obj\Debug\CSharpGui.exe.manifest
 D:\GUIApplication\CSharpGui\CSharpGui\obj\Debug\CSharpGui.application
+D:\GUIApplication\CSharpGui\CSharpGui\obj\Debug\CSharpGui.exe
+D:\GUIApplication\CSharpGui\CSharpGui\obj\Debug\CSharpGui.pdb

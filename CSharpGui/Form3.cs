@@ -180,9 +180,9 @@ namespace CSharpGui
 
             Process proc = null;
             //Do not hardcode
-            string batDir = string.Format(@"D:\");
+            //string batDir = string.Format(@"D:\");
             proc = new Process();
-            proc.StartInfo.WorkingDirectory = batDir;
+            //proc.StartInfo.WorkingDirectory = batDir;
             proc.StartInfo.FileName = Constants.Filename.ENV_VAR_FILE;
             proc.StartInfo.CreateNoWindow = false;
             proc.Start();

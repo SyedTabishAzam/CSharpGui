@@ -1,1 +1,16 @@
 S:\GUIDesign\CSharpGui\CSharpGui\bin\Release\CSharpGui.exe.config
+D:\GUIApplication\CSharpGui\CSharpGui\bin\Release\CSharpGui.exe.config
+D:\GUIApplication\CSharpGui\CSharpGui\bin\Release\CSharpGui.exe.manifest
+D:\GUIApplication\CSharpGui\CSharpGui\bin\Release\CSharpGui.application
+D:\GUIApplication\CSharpGui\CSharpGui\bin\Release\CSharpGui.exe
+D:\GUIApplication\CSharpGui\CSharpGui\bin\Release\CSharpGui.pdb
+D:\GUIApplication\CSharpGui\CSharpGui\obj\Release\CSharpGui.Form1.resources
+D:\GUIApplication\CSharpGui\CSharpGui\obj\Release\CSharpGui.Form2.resources
+D:\GUIApplication\CSharpGui\CSharpGui\obj\Release\CSharpGui.Form3.resources
+D:\GUIApplication\CSharpGui\CSharpGui\obj\Release\CSharpGui.Properties.Resources.resources
+D:\GUIApplication\CSharpGui\CSharpGui\obj\Release\CSharpGui.csproj.GenerateResource.Cache
+D:\GUIApplication\CSharpGui\CSharpGui\obj\Release\CSharpGui.exe.manifest
+D:\GUIApplication\CSharpGui\CSharpGui\obj\Release\CSharpGui.application
+D:\GUIApplication\CSharpGui\CSharpGui\obj\Release\CSharpGui.exe
+D:\GUIApplication\CSharpGui\CSharpGui\obj\Release\CSharpGui.pdb
+D:\GUIApplication\CSharpGui\CSharpGui\obj\Release\CSharpGui.csprojResolveAssemblyReference.cache
